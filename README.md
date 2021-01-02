@@ -11,3 +11,5 @@ git clone https://github.com/chrlng/hydra
 cd hydra
 python3 hydra.py
 ```
+**How to end the program**
+Type Ctrl + C in terminal
